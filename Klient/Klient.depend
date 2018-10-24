@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525332439 source:d:\fei stu\architektúra poèítaèov\blok 3\klient\main.c
+	<winsock2.h>
+	<stdio.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<strings.h>
+	<sys/types.h>
+	<string.h>
+	<pthread.h>
+	<fcntl.h>
+
